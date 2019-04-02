@@ -1,0 +1,828 @@
+﻿Log file open, 04/01/19 15:58:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Galaga
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342178
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.224s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Azerty_333 -epicuserid=be48acb5dc834a04812c9df78542e6b3 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.01-14.58.03:185][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.01-14.58.03:186][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.01-14.58.03:187][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:187][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:193][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.01-14.58.03:193][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.01-14.58.03:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.01-14.58.03:195][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.01-14.58.03:196][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.01-14.58.03:196][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.01-14.58.03:196][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.01-14.58.03:239][  0]LogHAL: Display: Platform has ~ 8 GB [8443830272 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.01-14.58.03:239][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.01-14.58.03:240][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.01-14.58.03:240][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.01-14.58.03:240][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.01-14.58.03:241][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Scalability.ini]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.01-14.58.03:242][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.01-14.58.03:243][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.01-14.58.03:243][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.01-14.58.03:243][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GitHub/GalagaUnreal/Galaga/Saved/Config/Windows/Engine.ini]
+[2019.04.01-14.58.03:243][  0]LogInit: Computer: DESKTOP-NA5M34A
+[2019.04.01-14.58.03:243][  0]LogInit: User: Dominique
+[2019.04.01-14.58.03:243][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.01-14.58.03:243][  0]LogInit: High frequency timer resolution =2.249999 MHz
+[2019.04.01-14.58.03:244][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.01-14.58.03:244][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.01-14.58.03:244][  0]LogMemory: Process Physical Memory: 103.92 MB used, 103.92 MB peak
+[2019.04.01-14.58.03:244][  0]LogMemory: Process Virtual Memory: 89.93 MB used, 89.93 MB peak
+[2019.04.01-14.58.03:244][  0]LogMemory: Physical Memory: 5576.66 MB used,  2476.01 MB free, 8052.66 MB total
+[2019.04.01-14.58.03:244][  0]LogMemory: Virtual Memory: 4646.36 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.01-14.58.03:292][  0]LogInit: Using OS detected language (en-US).
+[2019.04.01-14.58.03:292][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.01-14.58.03:294][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.01-14.58.03:910][  0]LogStreaming: Display: Took  0.619s to InitEngineTextLocalization.
+[2019.04.01-14.58.03:910][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.01-14.58.03:988][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.01-14.58.03:989][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.01-14.58.04:359][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.01-14.58.04:359][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.01-14.58.04:459][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.04.01-14.58.04:459][  0]LogD3D11RHI:       4019/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.01-14.58.04:483][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.01-14.58.04:483][  0]LogD3D11RHI:       128/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.01-14.58.04:485][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.01-14.58.04:485][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.01-14.58.04:485][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.01-14.58.04:524][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.01-14.58.04:524][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.04.01-14.58.04:524][  0]LogWindows: EnumDisplayDevices:
+[2019.04.01-14.58.04:524][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.01-14.58.04:525][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.01-14.58.04:525][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.01-14.58.04:525][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.04.01-14.58.04:526][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.04.01-14.58.04:526][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.04.01-14.58.04:526][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.04.01-14.58.04:526][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.04.01-14.58.04:526][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.04.01-14.58.04:603][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.01-14.58.04:684][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.01-14.58.05:253][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.01-14.58.05:272][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.01-14.58.05:287][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.01-14.58.05:303][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.01-14.58.05:319][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.01-14.58.05:335][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.01-14.58.05:351][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.01-14.58.05:367][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.01-14.58.05:374][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:479][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:480][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:480][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:480][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.01-14.58.05:481][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.01-14.58.05:562][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.01-14.58.05:562][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.01-14.58.05:618][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.01-14.58.05:618][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.01-14.58.05:646][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.01-14.58.05:671][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.01-14.58.05:699][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.01-14.58.05:731][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.01-14.58.05:827][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.01-14.58.05:827][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.01-14.58.05:827][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.01-14.58.05:959][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../GitHub/GalagaUnreal/Galaga/Intermediate/Shaders/WorkingDirectory/18288/).
+[2019.04.01-14.58.05:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dominique/AppData/Local/Temp/UnrealShaderWorkingDir/E145BD1945CC1898A3AFF39A5E0DD525/'.
+[2019.04.01-14.58.05:964][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.01-14.58.05:964][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.01-14.58.05:964][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.01-14.58.06:794][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.01-14.58.06:864][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Dominique/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.01-14.58.06:865][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dominique/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.01-14.58.06:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/GalagaUnreal/Galaga/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.01-14.58.06:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.01-14.58.06:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/GalagaUnreal/Galaga/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.01-14.58.06:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.01-14.58.06:886][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.01-14.58.06:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.01-14.58.06:886][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.01-14.58.06:900][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dominique/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.01-14.58.06:900][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.01-14.58.06:900][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.01-14.58.06:970][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.01-14.58.06:973][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.01-14.58.06:974][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.01-14.58.07:118][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2019.04.01-14.58.07:768][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.01-14.58.07:938][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.01-14.58.07:945][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.01-14.58.07:945][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.01-14.58.07:945][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.01-14.58.07:945][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.01-14.58.08:210][  0]LogNetVersion: Galaga 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3537324641)
+[2019.04.01-14.58.09:627][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.244862 seconds
+[2019.04.01-14.58.09:638][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.01-14.58.09:638][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.01-14.58.09:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.01-14.58.11:446][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.01-14.58.11:461][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.01-14.58.12:458][  0]SourceControl: Source control is disabled
+[2019.04.01-14.58.12:458][  0]SourceControl: Source control is disabled
+[2019.04.01-14.58.12:461][  0]SourceControl: Source control is disabled
+[2019.04.01-14.58.12:462][  0]SourceControl: Source control is disabled
+[2019.04.01-14.58.12:707][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.01-14.58.12:791][  0]LogOcInput: OculusInput pre-init called
+[2019.04.01-14.58.13:006][  0]LogEngine: Initializing Engine...
+[2019.04.01-14.58.13:008][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.01-14.58.13:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.01-14.58.13:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.01-14.58.13:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.01-14.58.13:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.01-14.58.13:542][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.01-14.58.13:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.01-14.58.13:693][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-14.58.14:542][  0]LogInit: FAudioDevice initialized.
+[2019.04.01-14.58.14:543][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.01-14.58.14:673][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Dominique/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.01-14.58.14:696][  0]LogInit: Texture streaming: Enabled
+[2019.04.01-14.58.14:734][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.01-14.58.14:766][  0]LogInit: Transaction tracking system initialized
+[2019.04.01-14.58.14:835][  0]BlueprintLog: New page: Editor Load
+[2019.04.01-14.58.15:004][  0]LocalizationService: Localization service is disabled
+[2019.04.01-14.58.16:023][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GalagaUnreal/Galaga/Content/' took 0.03s
+[2019.04.01-14.58.16:024][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.01-14.58.16:024][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.01-14.58.16:024][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.01-14.58.16:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.01-14.58.16:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.01-14.58.16:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.01-14.58.16:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.01-14.58.16:245][  0]SourceControl: Source control is disabled
+[2019.04.01-14.58.16:245][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.01-14.58.16:245][  0]LightingResults: New page: Lighting Build
+[2019.04.01-14.58.16:249][  0]MapCheck: New page: Map Check
+[2019.04.01-14.58.16:249][  0]LightingResults: New page: Lighting Build
+[2019.04.01-14.58.16:883][  0]LogAIModule: Creating AISystem for world Game
+[2019.04.01-14.58.16:892][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.01-14.58.16:947][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.01-14.58.16:948][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.291ms to complete.
+[2019.04.01-14.58.16:948][  0]LogFileHelpers: Loading map 'Game' took 0.703
+[2019.04.01-14.58.17:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-14.58.17:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-14.58.17:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-14.58.17:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-14.58.17:346][  0]LogCollectionManager: Loaded 0 collections in 0.004894 seconds
+[2019.04.01-14.58.17:414][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GalagaUnreal/Galaga/Saved/Collections/' took 0.01s
+[2019.04.01-14.58.17:414][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GalagaUnreal/Galaga/Content/Developers/Dominique/Collections/' took 0.01s
+[2019.04.01-14.58.17:414][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/GalagaUnreal/Galaga/Content/Collections/' took 0.00s
+[2019.04.01-14.58.17:414][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.01-14.58.17:444][  0]LogContentBrowser: Native class hierarchy populated in 0.0275 seconds. Added 2652 classes and 622 folders.
+[2019.04.01-14.58.17:477][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.01-14.58.17:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:859][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.17:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.01-14.58.18:367][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.01-14.58.18:473][  0]LogSlate: Took 0.001363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.01-14.58.18:489][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.01-14.58.18:505][  0]LogSlate: Took 0.005861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.01-14.58.18:717][  0]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:1).
+[2019.04.01-14.58.19:103][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.01-14.58.19:103][  0]LogLoad: (Engine Initialization) Total time: 18.76 seconds
+[2019.04.01-14.58.19:103][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.01-14.58.19:126][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.01-14.58.19:229][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.01-14.58.19:285][  0]LogSlate: Took 0.010787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.01-14.58.19:472][  3]LogAssetRegistry: Asset discovery search completed in 12.3769 seconds
+[2019.04.01-14.58.19:475][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.01-14.58.19:475][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.04.01-14.58.20:176][ 42]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.01-14.58.23:840][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-14.58.28:578][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-14.58.28:759][534]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_EnemySpawn.BP_EnemySpawn
+[2019.04.01-14.58.30:057][534]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 117 classes and 0 folders.
+[2019.04.01-14.58.32:259][534]LogSlate: Took 0.008730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.01-14.58.33:815][601]LogSlate: Took 0.010886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.01-14.59.03:227][205]LogSlate: Took 0.008123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.01-14.59.23:099][309]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-14.59.30:339][684]LogHttp: Warning: 00000232AC0A7EC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.01-14.59.30:339][684]LogHttp: Warning: 00000232AC0A7EC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.01-14.59.30:339][684]LogHttp: Warning: 00000232AC0A7EC0: libcurl info message cache 1 (Closing connection 0)
+[2019.04.01-14.59.30:339][684]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B215C9917-411E-6572-3A56-91ADE8369228%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4676147241596e60be1bebb314d9ab9e%7Cbe48acb5dc834a04812c9df78542e6b3%7C2f145205-9927-4646-8cab-85f64500effc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.01-15.00.52:331][261]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  SpawnAsteroid  and was replaced as a Custom Event!
+[2019.04.01-15.01.19:604][807]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.01.23:132][986]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  SpawnAsteroid  and was replaced as a Custom Event!
+[2019.04.01-15.01.56:798][892]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  SpawnAsteroid  and was replaced as a Custom Event!
+[2019.04.01-15.03.02:545][552]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.01-15.03.21:170][532]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.04.03:286][714]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.04.03:547][716]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.04.04:261][739]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.04.04:863][757]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.04.05:337][776]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.04.05:700][789]LogEditorTransaction: Undo Move Nodes
+[2019.04.01-15.05.31:740][342]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.06.32:261][728]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.08.12:427][457]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.08.31:572][527]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.08.33:778][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Game" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-15.08.34:171][620]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Game1809B4754B3FEF209B61EFBBB599717C.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap'
+[2019.04.01-15.08.34:245][620]LogFileHelpers: Saving map 'Game' took 0.467
+[2019.04.01-15.08.34:257][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemySpawn" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset" SILENT=true
+[2019.04.01-15.08.34:369][620]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemySpawnB9036FFA4566F678CFFE76B643566046.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset'
+[2019.04.01-15.08.34:393][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_BackAndForthShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset" SILENT=true
+[2019.04.01-15.08.34:424][620]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_BackAndForthShipF7A83BCD488E6F540D0CF9A3EF7A1733.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset'
+[2019.04.01-15.08.34:441][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_StraightShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset" SILENT=true
+[2019.04.01-15.08.34:471][620]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_StraightShip890594AB42E9A0C6177D2295A6C71853.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset'
+[2019.04.01-15.08.34:487][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_TowardPlayerShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset" SILENT=true
+[2019.04.01-15.08.34:517][620]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_TowardPlayerShipE5662211409CD64960C0268048470CF6.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset'
+[2019.04.01-15.08.47:120][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase
+[2019.04.01-15.09.23:663][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemyBase" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemyBase.uasset" SILENT=true
+[2019.04.01-15.09.23:738][367]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemyBaseFF72C4D046AC520F38E713955C913EA2.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemyBase.uasset'
+[2019.04.01-15.09.29:532][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_StraightShip.BP_StraightShip
+[2019.04.01-15.09.30:351][685]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:1).
+[2019.04.01-15.10.26:674][955]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.01-15.10.27:119][979]LogEditorTransaction: Undo Delete current selection
+[2019.04.01-15.10.33:223][336]BlueprintLog: New page: Compile BP_StraightShip
+[2019.04.01-15.10.38:274][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_StraightShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset" SILENT=true
+[2019.04.01-15.10.38:334][593]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_StraightShip637CB8C94EF3A3F356F95F98B09D7769.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset'
+[2019.04.01-15.10.40:004][687]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.01-15.10.40:034][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.10.40:035][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-15.10.40:039][687]PIE: New page: PIE session: Game (1 Apr 2019 17:10:40)
+[2019.04.01-15.10.40:053][687]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Game
+[2019.04.01-15.10.40:054][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002383s)
+[2019.04.01-15.10.40:056][687]LogAIModule: Creating AISystem for world Game
+[2019.04.01-15.10.40:056][687]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2019.04.01-15.10.40:056][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Game.Game to /Game/Levels/UEDPIE_0_Game.Game (0.004189s)
+[2019.04.01-15.10.40:124][687]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-15.10.40:268][687]LogInit: FAudioDevice initialized.
+[2019.04.01-15.10.40:363][687]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.01-15.10.40:376][687]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2019.04.01-16.10.40
+[2019.04.01-15.10.40:377][687]LogWorld: Bringing up level for play took: 0.002078
+[2019.04.01-15.10.40:412][687]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.04.01-15.10.40:414][687]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Game 0.663
+[2019.04.01-15.10.40:414][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.11.00:456][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.11.00:456][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.11.00:502][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-15.11.00:503][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.11.00:564][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.11.00:601][846]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.01-15.11.03:324][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-15.11.06:991][206]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_BackAndForthShip.BP_BackAndForthShip
+[2019.04.01-15.11.23:776][ 92]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_StraightShip.BP_StraightShip
+[2019.04.01-15.11.26:393][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_StraightShip.BP_StraightShip
+[2019.04.01-15.13.03:563][335]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_TowardPlayerShip.BP_TowardPlayerShip
+[2019.04.01-15.13.15:327][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_BackAndForthShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset" SILENT=true
+[2019.04.01-15.13.15:375][970]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_BackAndForthShip3566F66B437651793BF949A362DDC73A.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset'
+[2019.04.01-15.13.15:387][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_TowardPlayerShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset" SILENT=true
+[2019.04.01-15.13.15:445][970]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_TowardPlayerShip09D6774842FDA5AFF6C3A7AA9599884E.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset'
+[2019.04.01-15.13.18:327][160]BlueprintLog: New page: Compile BP_BackAndForthShip
+[2019.04.01-15.13.20:810][293]BlueprintLog: New page: Compile BP_TowardPlayerShip
+[2019.04.01-15.13.26:759][742]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.01-15.13.26:827][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.13.26:828][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-15.13.26:828][742]PIE: New page: PIE session: Game (1 Apr 2019 17:13:26)
+[2019.04.01-15.13.26:828][742]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Game
+[2019.04.01-15.13.26:832][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004130s)
+[2019.04.01-15.13.26:834][742]LogAIModule: Creating AISystem for world Game
+[2019.04.01-15.13.26:834][742]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2019.04.01-15.13.26:834][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Game.Game to /Game/Levels/UEDPIE_0_Game.Game (0.005988s)
+[2019.04.01-15.13.26:931][742]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-15.13.27:059][742]LogInit: FAudioDevice initialized.
+[2019.04.01-15.13.27:097][742]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.01-15.13.27:099][742]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2019.04.01-16.13.27
+[2019.04.01-15.13.27:100][742]LogWorld: Bringing up level for play took: 0.001008
+[2019.04.01-15.13.27:114][742]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Game -0.638
+[2019.04.01-15.13.27:114][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.13.50:675][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.13.50:676][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.13.50:734][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-15.13.50:734][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.13.50:804][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.13.50:840][579]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.01-15.13.51:811][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-15.14.02:761][303]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.14.07:438][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Game" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-15.14.07:882][575]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Game95DBD44248976B099282989F67B8693A.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap'
+[2019.04.01-15.14.07:969][575]LogFileHelpers: Saving map 'Game' took 0.531
+[2019.04.01-15.14.07:974][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemySpawn" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset" SILENT=true
+[2019.04.01-15.14.08:084][575]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemySpawnEC4C52764DAA31F83F466DB9D86CCF61.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset'
+[2019.04.01-15.14.08:542][610]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.01-15.14.08:623][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.14.08:623][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-15.14.08:624][610]PIE: New page: PIE session: Game (1 Apr 2019 17:14:08)
+[2019.04.01-15.14.08:624][610]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Game
+[2019.04.01-15.14.08:627][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003348s)
+[2019.04.01-15.14.08:628][610]LogAIModule: Creating AISystem for world Game
+[2019.04.01-15.14.08:628][610]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2019.04.01-15.14.08:628][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Game.Game to /Game/Levels/UEDPIE_0_Game.Game (0.004784s)
+[2019.04.01-15.14.08:702][610]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-15.14.08:828][610]LogInit: FAudioDevice initialized.
+[2019.04.01-15.14.08:877][610]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.01-15.14.08:885][610]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2019.04.01-16.14.08
+[2019.04.01-15.14.08:886][610]LogWorld: Bringing up level for play took: 0.004641
+[2019.04.01-15.14.08:909][610]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Game 1.157
+[2019.04.01-15.14.08:909][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.14.20:487][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.14.20:487][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.14.20:533][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-15.14.20:533][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Levels/Game.Game_C' with ClassGeneratedBy '/Game/Levels/Game.Game:PersistentLevel.Game'
+[2019.04.01-15.14.20:599][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-15.14.20:646][487]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.01-15.14.26:810][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-15.14.41:455][904]LogEditorTransaction: Undo Move Nodes
+[2019.04.01-15.17.09:673][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemySpawn" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset" SILENT=true
+[2019.04.01-15.17.09:773][289]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemySpawnA73DE2814F1A51D5D76B66A0217F29C3.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset'
+[2019.04.01-15.17.10:531][349]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.19.43:599][774]BlueprintLog: New page: Compile BP_EnemyBase
+[2019.04.01-15.19.52:072][569]BlueprintLog: New page: Compile BP_EnemyBase
+[2019.04.01-15.20.06:478][288]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.24.45:001][ 15]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.26.09:612][605]LogEditorTransaction: Undo Resize Node
+[2019.04.01-15.26.10:303][628]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.26.10:920][652]LogEditorTransaction: Undo Move Nodes
+[2019.04.01-15.26.11:968][705]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.12:294][716]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.12:533][724]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.12:817][734]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.13:079][740]LogEditorTransaction: Undo Add Node
+[2019.04.01-15.26.13:388][751]LogEditorTransaction: Undo Delete current selection
+[2019.04.01-15.26.13:663][758]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.26.13:956][769]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.14:228][776]LogEditorTransaction: Undo Break Node Links
+[2019.04.01-15.26.14:475][782]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.26.14:720][788]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.14:989][796]LogEditorTransaction: Undo Move Nodes
+[2019.04.01-15.26.15:354][811]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.01-15.26.22:036][210]LogEditorTransaction: Undo Rename Variable
+[2019.04.01-15.26.22:227][211]LogEditorTransaction: Undo Add Variable
+[2019.04.01-15.26.22:493][217]LogEditorTransaction: Undo Rename Variable
+[2019.04.01-15.26.22:823][225]LogEditorTransaction: Undo Add Variable
+[2019.04.01-15.26.23:046][229]LogEditorTransaction: Undo Rename Variable
+[2019.04.01-15.26.23:250][233]LogEditorTransaction: Undo Add Variable
+[2019.04.01-15.26.23:493][236]LogEditorTransaction: Undo Rename Variable
+[2019.04.01-15.26.23:757][247]LogEditorTransaction: Undo Add Variable
+[2019.04.01-15.26.24:143][263]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.26.25:168][316]LogEditorTransaction: Undo Add Node
+[2019.04.01-15.26.45:300][970]BlueprintLog: New page: Compile BP_EnemyBase
+[2019.04.01-15.26.48:437][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Game" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-15.26.48:837][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Game3BADA3B149790780AA78979ACDC9AAE6.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Levels/Game.umap'
+[2019.04.01-15.26.48:910][123]LogFileHelpers: Saving map 'Game' took 0.475
+[2019.04.01-15.26.48:922][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemySpawn" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset" SILENT=true
+[2019.04.01-15.26.49:025][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemySpawnD9580ED746B2D2C0C8833D8A0A3D4D55.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemySpawn.uasset'
+[2019.04.01-15.26.49:041][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_Asteroid" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_Asteroid.uasset" SILENT=true
+[2019.04.01-15.26.49:090][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_Asteroid48B582EB4EB244B146AA9B80EB65E49D.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_Asteroid.uasset'
+[2019.04.01-15.26.49:107][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_EnemyBase" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemyBase.uasset" SILENT=true
+[2019.04.01-15.26.49:187][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemyBaseC3F210D2458A3773D5120082799D6008.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_EnemyBase.uasset'
+[2019.04.01-15.26.49:205][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_LeftRightShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_LeftRightShip.uasset" SILENT=true
+[2019.04.01-15.26.49:255][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_LeftRightShip829648094F855216A262F788DED26809.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_LeftRightShip.uasset'
+[2019.04.01-15.26.49:267][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_BackAndForthShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset" SILENT=true
+[2019.04.01-15.26.49:317][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_BackAndForthShip5C0E563A4F72E1A7F49CEF9E090ED916.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_BackAndForthShip.uasset'
+[2019.04.01-15.26.49:328][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_StraightShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset" SILENT=true
+[2019.04.01-15.26.49:380][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_StraightShip2233EE1F49EDFB11B375948235843363.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_StraightShip.uasset'
+[2019.04.01-15.26.49:391][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/BP_TowardPlayerShip" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset" SILENT=true
+[2019.04.01-15.26.49:442][123]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_TowardPlayerShip41D2CD9744C2C190AFF606AC6165B2A3.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Content/Blueprints/Enemies/BP_TowardPlayerShip.uasset'
+[2019.04.01-15.27.32:871][201]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.27.32:933][201]LogBlueprint: Error: [Compiler BP_EnemySpawn] Pin  Spawn  named Spawn doesn't match any parameters of function CheckChance
+[2019.04.01-15.27.33:270][201]LogBlueprint: Warning: [Compiler BP_EnemySpawn] [1772.93] Compile of BP_EnemySpawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 398 ms] (/Game/Blueprints/Enemies/BP_EnemySpawn.BP_EnemySpawn)
+[2019.04.01-15.27.47:423][541]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.27.47:473][541]LogBlueprint: Error: [Compiler BP_EnemySpawn] In use pin  Spawn  no longer exists on node  Check Chance . Please refresh node or break links to remove pin.
+[2019.04.01-15.27.47:745][541]LogBlueprint: Warning: [Compiler BP_EnemySpawn] [1787.41] Compile of BP_EnemySpawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 321 ms] (/Game/Blueprints/Enemies/BP_EnemySpawn.BP_EnemySpawn)
+[2019.04.01-15.30.35:912][367]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.01-15.33.25:059][327]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.33.25:433][347]LogEditorTransaction: Undo Delete current selection
+[2019.04.01-15.33.26:731][433]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.33.27:205][465]LogEditorTransaction: Undo Create Pin Link
+[2019.04.01-15.33.27:663][502]LogEditorTransaction: Undo Move Node
+[2019.04.01-15.37.04:452][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Game" FILE="../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Autosaves/Game/Levels/Game_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.01-15.37.04:769][470]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Game_Auto1EEFAF8FB468BF08137B7F1B961DA51A1.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Autosaves/Game/Levels/Game_Auto1.umap'
+[2019.04.01-15.37.04:775][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Game' took 0.412
+[2019.04.01-15.37.04:775][470]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.412
+[2019.04.01-15.37.04:782][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemySpawn] ([1] browsable assets)...
+[2019.04.01-15.37.04:782][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemySpawn]
+[2019.04.01-15.37.04:894][470]LogSavePackage: Moving '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/BP_EnemySpawn_Auto1B69BF28C483551B0611C198396C77C54.tmp' to '../../../../../../GitHub/GalagaUnreal/Galaga/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemySpawn_Auto1.uasset'
+[2019.04.01-15.37.04:899][470]LogFileHelpers: Auto-saving content packages took 0.119
+[2019.04.01-15.38.11:634][ 46]BlueprintLog: New page: Compile BP_EnemySpawn
+[2019.04.01-15.38.11:722][ 46]LogClass: Warning: Type mismatch in LeftRightShip of BP_EnemySpawn_C - Previous (FloatProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.04.01-15.38.11:723][ 46]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.01-15.38.13:389][ 46]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.665 s
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: 
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '0.000000'! You must pass in fully qualified package names
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: Stack: 
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8864a54cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8863a73bd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8863bf07f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8863b56bf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:389][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff886421eee UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8860e95f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff862b359ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff87113d88a UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8711789ac UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff86ece17d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff86ec8cebf UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff86ec396d8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff862b83efc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff86ed42d6f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff86ed61168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff883fc226e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8840c82a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8840a309f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff88418c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff883f78e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff884012678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff883ff857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff883feb44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff89b7ade26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff89b7a0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.01-15.38.13:390][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff89b7b01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff89b79ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8c7ff6d41 USER32.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8c7ff6713 USER32.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff89b7b1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff651765546 UE4Editor.exe!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff65177596c UE4Editor.exe!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6517759ea UE4Editor.exe!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6517848da UE4Editor.exe!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff65178659a UE4Editor.exe!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8c6953dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff8c94b3691 ntdll.dll!UnknownFunction []
+[2019.04.01-15.38.13:391][ 46]LogOutputDevice: Error: 
+[2019.04.01-15.38.13:399][ 46]LogStats:                SubmitErrorReport -  0.000 s
